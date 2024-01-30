@@ -23,16 +23,19 @@ The primary goal of this project is to provide an easy and efficient way for ind
 Please note that the calorie estimation and exercise recommendations provided by this application should not replace professional medical advice.
 
 
-![image](https://github.com/vishnuvardhan-jadava/Real-estate-Price-Prediction/assets/83878754/9165266e-76bb-42c8-aeb1-7f6537c4f6f6)
+## ![image](https://github.com/vishnuvardhan-jadava/Real-estate-Price-Prediction/assets/83878754/9165266e-76bb-42c8-aeb1-7f6537c4f6f6)
 
 
 ![image](https://github.com/vishnuvardhan-jadava/Real-estate-Price-Prediction/assets/83878754/397107a7-0649-4a25-91f2-dfa344b42ddf)
 
 
+## 
 ![image](https://github.com/vishnuvardhan-jadava/Calorie_Counter_GenAI/assets/83878754/451a39eb-741d-427a-8363-dbc667c226aa)
 
 
+## 
 ![image](https://github.com/vishnuvardhan-jadava/Calorie_Counter_GenAI/assets/83878754/2b9a4b4f-4dbc-4113-871b-03f0c65e7871)
 
 
+## 
 ![image](https://github.com/vishnuvardhan-jadava/Calorie_Counter_GenAI/assets/83878754/b0c4ef23-6462-4e46-a69f-e7dc343e65ff)
