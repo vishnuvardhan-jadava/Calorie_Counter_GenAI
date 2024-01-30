@@ -13,3 +13,6 @@ The primary goal of this project is to provide an easy and efficient way for ind
 - **Exercise Recommendations**: To help balance caloric intake, the application suggests exercises that can help burn off the calories from a heavy meal.
 
 Please note that the calorie estimation and exercise recommendations provided by this application should not replace professional medical advice.
+
+
+![image](https://github.com/vishnuvardhan-jadava/Real-estate-Price-Prediction/assets/83878754/9165266e-76bb-42c8-aeb1-7f6537c4f6f6)
