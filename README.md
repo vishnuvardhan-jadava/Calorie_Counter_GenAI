@@ -26,3 +26,5 @@ Please note that the calorie estimation and exercise recommendations provided by
 
 ![image](https://github.com/vishnuvardhan-jadava/Calorie_Counter_GenAI/assets/83878754/2b9a4b4f-4dbc-4113-871b-03f0c65e7871)
 
+
+![image](https://github.com/vishnuvardhan-jadava/Calorie_Counter_GenAI/assets/83878754/b0c4ef23-6462-4e46-a69f-e7dc343e65ff)
