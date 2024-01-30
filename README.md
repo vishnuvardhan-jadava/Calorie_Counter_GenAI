@@ -2,8 +2,13 @@
 
 This project leverages the power of GenAI to estimate the caloric content of a meal from an image. It utilizes Google's Gemini-Pro-Vision model, Streamlit, and PIL.
 
-Note: You may need to use your own google gemini-pro API Key.
-You can create a file with name '.env' and assign your API Key to a variable (API_KEY, GOOGLE_API_KEY, etc)
+Note: You may need to use your google gemini-pro API Key.
+You can create a file with the name '.env' and assign your API Key to a variable (API_KEY, GOOGLE_API_KEY, etc)
+
+Files in the repository:
+- app.py: python file with the complete code
+- requirements.txt : text file with required files
+- few jpg, jpeg, png files
 
 ## Overview
 
