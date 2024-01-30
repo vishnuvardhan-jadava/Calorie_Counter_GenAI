@@ -2,6 +2,9 @@
 
 This project leverages the power of GenAI to estimate the caloric content of a meal from an image. It utilizes Google's Gemini-Pro-Vision model, Streamlit, and PIL.
 
+Note: You may need to use your own google gemini-pro API Key.
+You can create a file with name '.env' and assign your API Key to a variable (API_KEY, GOOGLE_API_KEY, etc)
+
 ## Overview
 
 The primary goal of this project is to provide an easy and efficient way for individuals to track their caloric intake. By simply taking a snapshot of their meal and uploading it to our web application, users can receive an estimate of the total number of calories in their meal.
