@@ -21,4 +21,5 @@ Please note that the calorie estimation and exercise recommendations provided by
 ![image](https://github.com/vishnuvardhan-jadava/Real-estate-Price-Prediction/assets/83878754/397107a7-0649-4a25-91f2-dfa344b42ddf)
 
 
-![image](https://github.com/vishnuvardhan-jadava/Real-estate-Price-Prediction/assets/83878754/86b249ae-8fbc-44fc-b246-318409311415)
+![image](https://github.com/vishnuvardhan-jadava/Calorie_Counter_GenAI/assets/83878754/451a39eb-741d-427a-8363-dbc667c226aa)
+
