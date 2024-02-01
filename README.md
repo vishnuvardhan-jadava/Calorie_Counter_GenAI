@@ -2,13 +2,15 @@
 
 This project leverages the power of GenAI to estimate the caloric content of a meal from an image. It utilizes Google's Gemini-Pro-Vision model, Streamlit, and PIL.
 
-Note: You may need to use your google gemini-pro API Key.
-You can create a file with the name '.env' and assign your API Key to a variable (API_KEY, GOOGLE_API_KEY, etc)
+## Prerequisites
 
-Files in the repository:
-- app.py: python file with the complete code
-- requirements.txt : text file with required files
-- few jpg, jpeg, png files
+You may need to use your Google Gemini-Pro API Key. You can create a file with the name '.env' and assign your API Key to a variable (API_KEY, GOOGLE_API_KEY, etc).
+
+## Repository Contents
+
+- `app.py`: Python file with the complete code.
+- `requirements.txt`: Text file with required packages.
+- Few `.jpg`, `.jpeg`, `.png` files.
 
 ## Overview
 
@@ -21,6 +23,14 @@ The primary goal of this project is to provide an easy and efficient way for ind
 - **Exercise Recommendations**: To help balance caloric intake, the application suggests exercises that can help burn off the calories from a heavy meal.
 
 Please note that the calorie estimation and exercise recommendations provided by this application should not replace professional medical advice.
+
+## Usage
+
+Run the Streamlit app with the following command:
+
+```sh
+streamlit run app.py
+```
 
 
 ## ![image](https://github.com/vishnuvardhan-jadava/Real-estate-Price-Prediction/assets/83878754/9165266e-76bb-42c8-aeb1-7f6537c4f6f6)
